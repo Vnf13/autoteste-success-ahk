@@ -46,7 +46,7 @@ Gui, Add, GroupBox, x30 y300 w920 h100, Totalização
 Gui, Add, Text, x40 y330, Valor Total:
 Gui, Add, Edit, vInputValorTotal w120, 0,40
 
-Gui, Add, Text, x180 y330, Qtde Formas Pagamento:
+Gui, Add, Text, x180 y330, Qtde Opções de Pagamento Habilitado::
 Gui, Add, Edit, vInputFormasPagamento w80, 1
 
 ; Cheque / Pagamento
