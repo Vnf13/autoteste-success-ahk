@@ -1,6 +1,3 @@
-# autoteste-success-ahk
-Automação de testes funcionais do sistema SUCCESS utilizando AutoHotkey.
-
 Este projeto tem como objetivo automatizar o processo de testes funcionais do sistema SUCCESS, simulando interações do usuário por meio da linguagem AutoHotkey. O script executa cenários repetitivos de validação de cadastros, movimentações e emissão de documentos fiscais (como NFC-e e NFe), permitindo maior agilidade e padronização na verificação de funcionalidades críticas.
 
 ✨ Funcionalidades:
